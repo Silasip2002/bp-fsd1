@@ -29,11 +29,10 @@ export default function GoogleMap() {
         margin: "0 auto",
         height: "50vh",
         width: "50%",
-       
       }}
     >
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyAj8n3QtpkgiHqjaxrFufUbxFMX0T3j7Sc" }}
+        bootstrapURLKeys={{ key: "yor key" }}
         defaultCenter={center}
         defaultZoom={zoom}
       >
