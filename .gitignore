@@ -2,6 +2,11 @@
 
 # dependencies
 /webform/node_modules
+/API/ceateUser/node_modules
+/API/deleteUser/node_modules
+/API/getUserUser/node_modules
+/API/updateUser/node_modules
+/API/listUsers/node_modules
 /node_modules
 /.pnp
 .pnp.js

@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "deploy": "serverless deploy"
+  },
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-cli": "0.0.2",
+    "aws-sdk": "^2.860.0",
+    "aws-serverless-express": "^3.4.0",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.19",
+    "nodemon": "^2.0.12",
+    "serverless": "^2.40.0"
+  }
+}
