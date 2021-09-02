@@ -1,0 +1,12 @@
+.cancel__btn {
+  background-color: white;
+  color: blueviolet;
+}
+
+.listUserTable__container {
+  padding: 2% 20%;
+}
+
+.userDetails {
+  color: gray;
+}

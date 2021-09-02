@@ -1,0 +1,27 @@
+.textFiled {
+  width: 100%;
+}
+
+.inputFieldContainer {
+  padding: 5% 20%;
+}
+
+.formContainer {
+  padding-bottom: 5%;
+}
+
+.confirm__btn {
+  background-color: blueviolet;
+  color: white;
+}
+
+.cancel__btn {
+  background-color: white;
+  color: blueviolet;
+}
+
+.mapImage {
+  max-width: 500px;
+  max-height: 400px;
+  border-radius: 5%;
+}
